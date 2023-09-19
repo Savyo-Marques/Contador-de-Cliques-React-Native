@@ -1,6 +1,6 @@
 # Contador de Cliques em React Native
 
-![Imagem da Aplicação](imagem-da-aplicacao.png)
+![contador](https://github.com/Savyo-Marques/Contador-de-Cliques-React-Native/assets/129305960/3dafd912-9c21-4998-98c9-6911622fd62a)
 
 ## Descrição
 
