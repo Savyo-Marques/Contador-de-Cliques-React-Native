@@ -1,7 +1,7 @@
 # Contador de Cliques em React Native
 
 <div align="center">
- <img src="https://github.com/Savyo-Marques/Contador-de-Cliques-React-Native/assets/129305960/3dafd912-9c21-4998-98c9-6911622fd62a" width="400" />
+ <img src="https://github.com/Savyo-Marques/Contador-de-Cliques-React-Native/assets/129305960/86b771c4-8720-4eab-b3f9-e6e0557a6e71" width="400" />
 </div>
 
 ## Descrição
